@@ -10,6 +10,7 @@
 - Run the server on PORT 5000 by running `npm start`.
 
 you will get a message on terminal saying -
+
 `Server is running at PORT 5000!
 MongoDB connection has been established!`
 
