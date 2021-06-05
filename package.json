@@ -1,5 +1,5 @@
 {
-    "name": "mern-blog",
+    "name": "blog-overflow",
     "version": "1.0.0",
     "description": "A MERN Stack Blog app",
     "main": "server.js",
